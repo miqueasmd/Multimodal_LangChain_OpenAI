@@ -41,7 +41,7 @@ This project implements a Multimodal AI application using LangChain and OpenAI's
 ### Usage
 1. Run the notebook cells in sequence
 2. Input a YouTube URL to download and process
-3. Ask questions about the video content through the chatbot interface
+3. Ask questions about the video content through the application interface
 
 ## Project Structure
 - `notebook-solution.ipynb`: Main Jupyter notebook with the implementation
