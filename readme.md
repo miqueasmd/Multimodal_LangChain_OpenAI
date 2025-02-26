@@ -1,4 +1,4 @@
-# LangChain OpenAI Chatbot Project
+# LangChain OpenAI Multimodal Application Project
 
 ## Overview
 This project implements a Multimodal AI application using LangChain and OpenAI's APIs. It processes YouTube videos by downloading the audio, transcribing it using OpenAI's Whisper model, and creating a knowledge base for answering questions about the content.
